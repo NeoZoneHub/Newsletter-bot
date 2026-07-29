@@ -135,7 +135,7 @@ Commande Description Utilisation
 
 Réalisé par
 
-  <img src="https://i.imgur.com/digix-logo.png" alt="Digital Crew 243" width="150"/>
+  <img src="https://files.catbox.moe/tae1im.jpg" alt="Digital Crew 243" width="150"/>
 
 DIGITAL CREW 243 🚀
 
@@ -143,7 +143,6 @@ DIGITAL CREW 243 🚀
     <i>"Always Forward. Digital Crew, one of the best."</i>
   </p>
 
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 </div>
 
@@ -175,4 +174,3 @@ Pour toute question ou assistance :
   <p>© 2026 DigiX Newsletter Bot. Tous droits réservés.</p>
 
 </div>
-```
