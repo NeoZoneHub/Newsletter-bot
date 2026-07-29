@@ -40,7 +40,7 @@
 ### 1. Clonez le repository
 
 ```bash
-git clone https://github.com/yourusername/digix-newsletter-bot.git
+git clone https://github.com/NeoZoneHub/Newsletter-bot.git
 cd digix-newsletter-bot
 ```
 
@@ -117,7 +117,7 @@ Variables importantes
 // Dans index.js
 const data = 'sessionData';        // Dossier de session
 const prefix = '.';                // Préfixe des commandes
-const number = 50941616337;        // Votre numéro WhatsApp
+const number = 243833389567;        // Votre numéro WhatsApp
 ```
 
 ---
@@ -149,12 +149,6 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 
 ---
 
-📝 Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
----
-
 🙏 Support
 
 Pour toute question ou assistance :
@@ -162,13 +156,13 @@ Pour toute question ou assistance :
 <div align="center">
 
   <a href="https://wa.me/998771529519">
-    <img src="https://img.shields.io/badge/CONTACT_PREMIUM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366&fontSize=20" alt="Contact Premium" width="300"/>
+    <img src="https://img.shields.io/badge/CONTACT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366&fontSize=20" alt="Contact Premium" width="300"/>
   </a>
 
   <br/>
   <br/>
 
-  <img src="https://img.shields.io/badge/⭐_SUPPORT_PREMIUM_⭐-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Premium Support"/>
+  <img src="https://img.shields.io/badge/⭐_SUPPORT_⭐-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Premium Support"/>
 
 </div>
 
