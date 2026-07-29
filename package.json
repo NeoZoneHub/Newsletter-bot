@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot with pairing code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "baileys": "^6.7.9",
+    "pino": "^8.17.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Digital Crew 243",
+  "license": "MIT"
+}
