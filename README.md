@@ -41,7 +41,7 @@
 
 ```bash
 git clone https://github.com/NeoZoneHub/Newsletter-bot.git
-cd digix-newsletter-bot
+cd Newsletter-bot
 ```
 
 2. Installez les dépendances
